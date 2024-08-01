@@ -41,13 +41,10 @@ class Carro:
 meu_carro = Carro("Vermelho", "Gol")
 
 #Faça o carro "andar"
-
 meu_carro.liga()
-
 meu_carro.acelera(20)
 meu_carro.acelera(30)
 
 # Faça o carro "parar"
 meu_carro.desacelera(50)
-meu_carro.desliga()
 meu_carro.desliga()
